@@ -1,0 +1,22 @@
+Q1. Explain the DOM and its role in Web development.
+
+Q2. Explain the concept of event delegation and provide a scenario where it is beneficial.
+
+Q3. Explain the concept of Event Bubbling in the DOM.
+
+Q4. Explain the purpose of the addEventListener method in JavaScript and how it facilitates event handling in
+    the DOM.
+
+Q5. Create an HTML page with a button. Use JavaScript to display an alert when the button is clicked.
+
+Q6. Create a simple image carousel using HTML and JavaScript, Design a basic HTML structure with images,
+    and use JavaScript to implement functionality that allows users to navigate through the images.
+
+Q7. Build a dynamic dropdown menu using HTML and JavaScript. Create an HTML structure for a navigation
+    menu with dropdowns. Use JavaScript to toggle the visibility of dropdowns when the user hovers over menu
+    items.
+   
+Q8. Create a simple dynamic shopping list with the following features
+    * The item should appear in the list?
+    * Each item should be given a button that can be pressed to delete that item off the list?
+    * The input should be emptied and focused ready for you to enter another item

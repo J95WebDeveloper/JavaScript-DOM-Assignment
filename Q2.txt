@@ -1,0 +1,16 @@
+Q2. Explain the concept of event delegation and provide a scenario where it is beneficial.
+
+Answer - 
+
+Event Delegation - Event Delegation is a pattern based upon the concept of Event Bubbling. It is an event-handling pattern that allows you 
+                   to handle events at a higher level in the DOM tree other than the level where the event was first received.
+
+Benefits - 
+
+* Performance Improvement: Attaching a single event listener consumes less memory than attaching individual event listeners to each element.
+
+* Dynamic Elements: Event delegation works perfectly with dynamically added elements. Any new elements added at runtime that match the 
+                    delegation criteria will automatically have the event listener.
+                    
+* Code Simplification: Instead of managing multiple event listeners, we only need to manage one, resulting in cleaner and more 
+                       maintainable code.

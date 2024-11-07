@@ -1,0 +1,16 @@
+Q4. Explain the purpose of the addEventListener method in JavaScript and how it facilitates event handling in the Dom.
+
+Answer - 
+
+addEventListener - The addEventListener() method of the EventTarget interface sets up a function that will be called whenever the 
+                   specified event is delivered to the target.
+
+                 - Events are a specific occurrence or action like user clicks, keypress or page loads. The browser detects these 
+                   events and triggers associated JavaScript functions known as event handlers to respond accordingly.
+
+                 - Developers employ the 'addEventListener()' method for linking particular HTML elements with specific function 
+                   behaviours when those events occur. Examples of events include clicks, mouse movements, keyboard inputs, and 
+                   document loading.
+
+                 - An event listener is a function in JavaScript that waits for an event to occur then responds to it. JavaScript is a 
+                   programming language that developers use to make interactive webpages.    
